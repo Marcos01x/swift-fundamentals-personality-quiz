@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0DB97CB-9459-4022-ACAF-02C1A35784DB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "499A5239-EB2B-4FD2-A7D3-60523B7B29D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PersonalityQuiz/ResultsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init?(coder:responses:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "499A5239-EB2B-4FD2-A7D3-60523B7B29D3 - 5cd4982b1aac9fce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalityQuiz.ResultsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PersonalityQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcos.arroyo/Developer/swift%20fundamentals/PersonalityQuiz/PersonalityQuiz/ResultsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "499A5239-EB2B-4FD2-A7D3-60523B7B29D3 - 2b5817b78b3faa61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalityQuiz.ResultsViewController.init(coder: __C.NSCoder, responses: Swift.Array&lt;PersonalityQuiz.Answer&gt;) -&gt; Swift.Optional&lt;PersonalityQuiz.ResultsViewController&gt;"
+                  moduleName = "PersonalityQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcos.arroyo/Developer/swift%20fundamentals/PersonalityQuiz/PersonalityQuiz/ResultsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D6ACDAE-2B70-4527-B201-E2B5751D0E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PersonalityQuiz/ResultsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init?(coder:responses:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
